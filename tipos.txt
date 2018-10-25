@@ -1,0 +1,21 @@
+let variavel: type;
+
+string
+number
+boolean
+null
+undefined
+array
+enum
+tuple
+type
+Any
+Void
+Object
+
+interface  (Opcionais ?) spread destructors
+class
+
+Cast
+<type> or as
+
