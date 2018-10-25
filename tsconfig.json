@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "outDir": "./build/",
+    "rootDir": "./src/app",
+    "sourceMap": true,
+    "noImplicitAny": false,
+    "module": "es6",
+    "target": "es6",
+    "allowJs": false
+  },
+  "exclude": [
+    "node_modules",
+    "build",
+    "*.js",
+    "*.ts"
+  ],
+}
